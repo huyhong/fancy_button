@@ -40,3 +40,4 @@ Using CSS properties alone, recreate [this button](https://cdn.glitch.com/a606b2
 }
 ```
 
+_Exercise derived from [this codepen](https://codepen.io/mobify/pen/GtqKj), along with the button graphic._
